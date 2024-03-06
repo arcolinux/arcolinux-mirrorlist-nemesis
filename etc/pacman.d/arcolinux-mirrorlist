@@ -1,17 +1,17 @@
-# Europe Netherlands Amsterdam
+# Europe Netherlands Amsterdam - seedhost
 #Server = https://ant.seedhost.eu/arcolinux/$repo/$arch
 
-# United States Gitlab
+# United States - gitlab
 Server = https://gitlab.com/arcolinux/$repo/-/raw/main/$arch
 
 # Europe Sweden - accum.se
 Server = https://mirror.accum.se/mirror/arcolinux.info/$repo/$arch
 
-# Europe Belgium
+# Europe Belgium - belnet
 Server = https://ftp.belnet.be/arcolinux/$repo/$arch
 
-# United States Github
+# United States - github
 Server = https://arcolinux.github.io/$repo/$arch
 
-# Australia
+# Australia - aarnet
 Server = https://mirror.aarnet.edu.au/pub/arcolinux/$repo/$arch
