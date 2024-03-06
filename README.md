@@ -1,1 +1,1 @@
-# ArcoLinux-Mirrorlist Nemesis
+# ArcoLinux-Mirrorlist
