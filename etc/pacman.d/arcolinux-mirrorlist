@@ -16,18 +16,4 @@ Server = https://ftp.belnet.be/arcolinux/$repo/$arch
 # Australia
 Server = https://mirror.aarnet.edu.au/pub/arcolinux/$repo/$arch
 
-####################################
-# not working ?
-####################################
-
-# South Korea
-# Server = https://mirror.funami.tech/arcolinux/$repo/$arch
-
-# Singapore
-# Server = https://mirror.jingk.ai/arcolinux/$repo/$arch
-
-# South America - Pimenta Bueno, Brazil
-# Server = https://arcolinux.chililinux.com/$repo/$arch
-# Server = https://arcolinux.chilios.com.br/$repo/$arch
-
 
